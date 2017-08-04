@@ -19,7 +19,9 @@ import com.loopj.android.http.RequestParams;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import cz.msebera.android.httpclient.entity.mime.Header;
+//import cz.msebera.android.httpclient.entity.mime.Header;
+
+import cz.msebera.android.httpclient.Header;
 
 import static android.R.attr.handle;
 import static android.R.attr.id;
